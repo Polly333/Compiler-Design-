@@ -4,11 +4,11 @@ Contains Extra Resources
 
 
 
-2. Lexical Analyzer, written for a subset of C using many different programming languages: https://rosettacode.org/wiki/Compiler/lexical_analyzer
+## 2. Lexical Analyzer, written for a subset of C using many different programming languages: https://rosettacode.org/wiki/Compiler/lexical_analyzer
 
 
 
-3. LEX-tool Tutorial: https://youtu.be/54bo1qaHAfk
+## 3. LEX-tool Tutorial: https://youtu.be/54bo1qaHAfk
 
 ## YACC rules (for C programming) - https://www.lysator.liu.se/c/ANSI-C-grammar-y.html#function-definition 
 Can click on each highlighted word to see LEX tool rules for it.
